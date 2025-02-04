@@ -1,2 +1,2 @@
 # python_data_toolkit
-Practising on numpy, pandas, matplotlib, seaborn, plotly, bokeh
+My practising on numpy, pandas, matplotlib, seaborn, plotly, bokeh
